@@ -1,0 +1,19 @@
+{
+  "name": "fcc_backend_cert",
+  "version": "1.0.0",
+  "description": "\"Building Out BackEnd Cert\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"testing\"",
+    "\"node\"",
+    "\"backend\"]"
+  ],
+  "author": "David Wallace",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.14.0"
+  }
+}
